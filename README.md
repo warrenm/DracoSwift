@@ -9,6 +9,6 @@ Supported targets:
  - [x] macOS
  - [x] iOS
  - [x] tvOS
- - [ ] visionOS
+ - [x] visionOS
  
  This project is licensed under the same terms as the draco project itself (Apache License 2.0).
